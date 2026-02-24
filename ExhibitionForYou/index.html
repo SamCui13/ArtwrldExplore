@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>LA Art Exhibitions</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <div id="hint" class="hint" aria-hidden="true">
+      <div class="hint__card">
+        <div class="hint__row">
+          <svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="m21 16-4 4-4-4"/>
+            <path d="M17 20V4"/>
+            <path d="m3 8 4-4 4 4"/>
+            <path d="M7 4v16"/>
+          </svg>
+          <span>Scroll up/down for mediums</span>
+        </div>
+        <div class="hint__sub">Scroll left/right for exhibitions</div>
+      </div>
+    </div>
+
+    <main id="feed" class="feed" aria-label="Exhibitions feed">
+      <!-- populated by script.js -->
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

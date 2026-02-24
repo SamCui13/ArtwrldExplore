@@ -1,0 +1,172 @@
+{
+  "mediums": [
+    {
+      "id": 1,
+      "name": "Photography",
+      "exhibitions": [
+        {
+          "id": 1,
+          "imageUrl": "https://images.unsplash.com/photo-1710294433504-84546e172708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Urban Perspectives",
+          "artistName": "Sarah Chen",
+          "galleryName": "M+B Gallery",
+          "locationArea": "Westside",
+          "address": "612 N Almont Dr, West Hollywood, CA 90069",
+          "exhibitionDates": "Feb 15 - Mar 30, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Photography"
+        },
+        {
+          "id": 2,
+          "imageUrl": "https://images.unsplash.com/photo-1658525914952-c02cbe697dc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Faces of LA",
+          "artistName": "Marcus Johnson",
+          "galleryName": "Fahey/Klein Gallery",
+          "locationArea": "Mid City",
+          "address": "148 N La Brea Ave, Los Angeles, CA 90036",
+          "exhibitionDates": "Jan 20 - Apr 15, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Photography"
+        },
+        {
+          "id": 3,
+          "imageUrl": "https://images.unsplash.com/photo-1574148658394-ff1ed3676451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "California Dreamscapes",
+          "artistName": "Elena Rodriguez",
+          "galleryName": "Robert Mann Gallery",
+          "locationArea": "Culver City",
+          "address": "2525 Michigan Ave, Santa Monica, CA 90404",
+          "exhibitionDates": "Feb 1 - Mar 22, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Photography"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sculpture",
+      "exhibitions": [
+        {
+          "id": 4,
+          "imageUrl": "https://images.unsplash.com/photo-1731544040137-bc6fa995e222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Forms in Space",
+          "artistName": "David Kim",
+          "galleryName": "Blum & Poe",
+          "locationArea": "Culver City",
+          "address": "2727 S La Cienega Blvd, Los Angeles, CA 90034",
+          "exhibitionDates": "Mar 5 - May 10, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Sculpture"
+        },
+        {
+          "id": 5,
+          "imageUrl": "https://images.unsplash.com/photo-1735806973007-1286bb7554fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Ceramic Narratives",
+          "artistName": "Yuki Tanaka",
+          "galleryName": "Craft Contemporary",
+          "locationArea": "Mid City",
+          "address": "5814 Wilshire Blvd, Los Angeles, CA 90036",
+          "exhibitionDates": "Feb 12 - Apr 20, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Sculpture"
+        },
+        {
+          "id": 6,
+          "imageUrl": "https://images.unsplash.com/photo-1770566858174-c5638afd32aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Metal Memories",
+          "artistName": "James Patterson",
+          "galleryName": "Regen Projects",
+          "locationArea": "Mid Wilshire",
+          "address": "6750 Santa Monica Blvd, Los Angeles, CA 90038",
+          "exhibitionDates": "Jan 30 - Mar 28, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Sculpture"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Painting",
+      "exhibitions": [
+        {
+          "id": 7,
+          "imageUrl": "https://images.unsplash.com/photo-1635141849017-c531949fb5b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Abstract Emotions",
+          "artistName": "Maria Garcia",
+          "galleryName": "Hauser & Wirth",
+          "locationArea": "Downtown",
+          "address": "901 E 3rd St, Los Angeles, CA 90013",
+          "exhibitionDates": "Feb 8 - Apr 5, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Painting"
+        },
+        {
+          "id": 8,
+          "imageUrl": "https://images.unsplash.com/photo-1705254613735-1abb457f8a60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Color Theory",
+          "artistName": "Alex Thompson",
+          "galleryName": "Gagosian",
+          "locationArea": "Beverly Hills",
+          "address": "456 N Camden Dr, Beverly Hills, CA 90210",
+          "exhibitionDates": "Mar 1 - May 15, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Painting"
+        },
+        {
+          "id": 9,
+          "imageUrl": "https://images.unsplash.com/photo-1681239063386-fc4a373c927b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Contemporary Portraits",
+          "artistName": "Robert Lee",
+          "galleryName": "David Kordansky Gallery",
+          "locationArea": "Mid City",
+          "address": "5130 W Edgewood Pl, Los Angeles, CA 90019",
+          "exhibitionDates": "Feb 22 - Apr 18, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Painting"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mixed Media",
+      "exhibitions": [
+        {
+          "id": 10,
+          "imageUrl": "https://images.unsplash.com/photo-1765376232529-a1aff86c6b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Digital Dreams",
+          "artistName": "Sophia Nguyen",
+          "galleryName": "The Broad",
+          "locationArea": "Downtown",
+          "address": "221 S Grand Ave, Los Angeles, CA 90012",
+          "exhibitionDates": "Jan 15 - Jun 30, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Mixed Media"
+        },
+        {
+          "id": 11,
+          "imageUrl": "https://images.unsplash.com/photo-1741038273303-087bba191d55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Collage Worlds",
+          "artistName": "Taylor Brooks",
+          "galleryName": "MOCA",
+          "locationArea": "Downtown",
+          "address": "250 S Grand Ave, Los Angeles, CA 90012",
+          "exhibitionDates": "Feb 10 - May 5, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Mixed Media"
+        },
+        {
+          "id": 12,
+          "imageUrl": "https://images.unsplash.com/photo-1633112306621-981f5700ce0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=1080",
+          "exhibitionTitle": "Interactive Installations",
+          "artistName": "Maya Patel",
+          "galleryName": "LACMA",
+          "locationArea": "Mid Wilshire",
+          "address": "5905 Wilshire Blvd, Los Angeles, CA 90036",
+          "exhibitionDates": "Mar 12 - Jun 15, 2026",
+          "exhibitionUrl": "https://www.artwrld.com/city/los-angeles/all-exhibitions",
+          "medium": "Mixed Media"
+        }
+      ]
+    }
+  ]
+}
